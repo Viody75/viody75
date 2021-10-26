@@ -1,4 +1,12 @@
-### Hi there 👋
+# Viody Alfaridzi
+A Software Developer with 3 years Experiences.
+
+![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viody75&layout=compact)
+
+## Framework used:
+- Flutter 2
+- NodeJs
+- ExpressJs
 
 <!--
 **Viody75/viody75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
