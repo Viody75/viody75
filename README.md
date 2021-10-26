@@ -7,6 +7,7 @@ A Software Developer with 3 years Experiences.
 - Flutter 2
 - NodeJs
 - ExpressJs
+- NextJs
 
 <!--
 **Viody75/viody75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
