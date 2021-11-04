@@ -1,5 +1,5 @@
 # Viody Alfaridzi
-A Software Developer with 3 years Experiences.
+A Software Developer with 2 years Experiences.
 
 ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viody75&layout=compact)
 
@@ -7,6 +7,7 @@ A Software Developer with 3 years Experiences.
 - Flutter 2
 - NodeJs
 - ExpressJs
+- ReactJs
 - NextJs
 
 <!--
