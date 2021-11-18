@@ -5,6 +5,7 @@ A Software Developer with 2 years Experiences.
 
 ## Framework used:
 - Flutter 2
+- GetX Flutter
 - NodeJs
 - ExpressJs
 - ReactJs
