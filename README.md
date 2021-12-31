@@ -3,11 +3,12 @@ A Software Developer with 2 years Experiences.
 
 ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viody75&layout=compact)
 
-## Framework used:
+## Tech used:
 - Flutter 2
 - GetX Flutter
 - NodeJs
 - ExpressJs
+- EJS
 - ReactJs
 - NextJs
 
