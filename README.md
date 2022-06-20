@@ -6,10 +6,8 @@ A Software Developer with 2 years Experiences.
 
 ## Most used skills:
 - Mobile App Developer
-- Frontend Developer
 - Backend Developer
 - Basic SysAdmin
-
 
 ## Tech used:
 - Flutter 3
@@ -19,4 +17,5 @@ A Software Developer with 2 years Experiences.
 - EJS
 - ReactJs
 - NextJs
+- Shellscript
 
