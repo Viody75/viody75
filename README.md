@@ -22,7 +22,7 @@ A Software Developer with 2 years Experiences.
 - Shellscript
 - Cron
 
-## Comcepts i used:
+## Concepts i used:
 - Agile Development
 - Scrum
 - Iterated Code Optimalization
