@@ -5,7 +5,7 @@ A Software Developer with 2 years Experiences.
 ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viody75&layout=compact)
 
 ## What i do:
-- IT Operation
+- IT Operation & Infrastructure
 - Mobile App Developer
 - Backend Developer
 - System Admin
@@ -20,7 +20,8 @@ A Software Developer with 2 years Experiences.
 - EJS
 - ReactJs
 - Shellscript
-- Cron
+- Cron Scheduler
+- Docker
 
 ## Concepts i used:
 - Agile Development
