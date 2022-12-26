@@ -9,7 +9,7 @@ A Software Developer with 2 years Experiences.
 - Mobile App Developer
 - Backend Developer
 - System Admin
-- DevOps (Wanna be)
+- DevOps
 
 ## Tech i used:
 - Flutter 3
@@ -17,11 +17,12 @@ A Software Developer with 2 years Experiences.
 - NodeJs
 - ExpressJs
 - Fastify
-- EJS
 - ReactJs
+- NextJs
 - Shellscript
 - Cron Scheduler
 - Docker
+- CI/CD Pipeline
 
 ## Concepts i used:
 - Agile Development
