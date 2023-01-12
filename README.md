@@ -2,10 +2,12 @@
 A Software Developer with 2 years Experiences.
 
 ## What i do:
-- IT Operation & Infrastructure
+- IT Bussiness Operation & Infrastructure
 - Mobile App Developer
 - Backend Developer
+- RPA Developer
 - System Admin
+- Data Visualization
 - DevOps
 
 ## Tech i used:
@@ -13,7 +15,6 @@ A Software Developer with 2 years Experiences.
 - GetX Flutter
 - NodeJs
 - ExpressJs
-- Fastify
 - ReactJs
 - NextJs
 - Shellscript
@@ -23,6 +24,6 @@ A Software Developer with 2 years Experiences.
 
 ## Concepts i used:
 - Agile Development
-- Scrum
+- SCRUM
 - Iterated Code Optimalization
 - Continuous Integration & Continuous Deployment
