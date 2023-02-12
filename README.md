@@ -1,5 +1,5 @@
 # Viody Alfaridzi
-A Software Developer with 2 years Experiences.
+3 years Experiences of Software Development.
 
 ## What i do:
 - IT Bussiness Operation & Infrastructure
