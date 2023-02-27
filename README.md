@@ -1,11 +1,11 @@
 # Viody Alfaridzi
-3 years Experiences of Software Development.
+4 years Experiences of Software & Bussiness Development.
 
 ## What i do:
 - IT Bussiness Operation & Infrastructure
-- Mobile App Developer
-- Backend Developer
-- RPA Developer
+- Mobile App Development
+- Backend Development
+- RPA (Robot Process Automation) Development
 - System Admin
 - Data Visualization
 - DevOps
@@ -25,5 +25,5 @@
 ## Concepts i used:
 - Agile Development
 - SCRUM
-- Iterated Code Optimalization
+- Iterated Code Optimalization & Documentation
 - Continuous Integration & Continuous Deployment
