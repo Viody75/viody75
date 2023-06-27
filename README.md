@@ -1,5 +1,5 @@
 # Viody Alfaridzi
-4 years Experiences of Software & Bussiness Development.
+3 years Experiences of Software Engineering & IT Bussiness Development.
 
 ## What i do:
 - IT Bussiness Operation & Infrastructure
@@ -11,7 +11,7 @@
 - DevOps
 
 ## Tech i used:
-- Flutter 3
+- Flutter
 - GetX Flutter
 - NodeJs
 - ExpressJs
