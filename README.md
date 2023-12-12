@@ -18,7 +18,6 @@
 - ReactJs
 - NextJs
 - Shellscript
-- Cron Scheduler
 - Docker
 - CI/CD Pipeline
 
