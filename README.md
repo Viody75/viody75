@@ -12,9 +12,7 @@
 
 ## Tech i used:
 - Flutter
-- GetX Flutter
 - NodeJs
-- ExpressJs
 - ReactJs
 - NextJs
 - Shellscript
