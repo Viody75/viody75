@@ -1,8 +1,8 @@
 # Viody Alfaridzi
-4 years Experiences of Software Engineering & IT Bussiness Development.
+Almost 5 years Experiences of Software Engineering Industry & IT Bussiness Development.
 
 ## What i do:
-1. IT Bussiness Operation
+1. IT Bussiness & Operation
    - Business process digitalization
 3. Software Engineering
    - Mobile App Engineering
@@ -14,6 +14,7 @@
    - Backend & Process Engineering
      - NextJS
      - Laravel
+     - JAVA Spring
 4. RPA (Robot Process Automation) Development
    - UiPath
    - Reframework & Orchestrator
