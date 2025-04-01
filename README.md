@@ -10,17 +10,8 @@ I specialize in building tech that solves real problems — from mobile apps to 
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- GITHUB STATS CARD -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viody75&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viody75&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 🧠 Tech Stack
+
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -31,6 +22,11 @@ I specialize in building tech that solves real problems — from mobile apps to 
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/UiPath-0052CC?style=for-the-badge&logo=uipath&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+</p>
+
+<!-- GITHUB STATS CARD -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viody75&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ## What i do:
