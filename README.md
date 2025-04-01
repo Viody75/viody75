@@ -4,9 +4,9 @@
 I specialize in building tech that solves real problems — from mobile apps to backend systems, automation, and beyond.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=viodyalfaridzi&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/viodyalfaridzi?label=Followers&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/viodyalfaridzi?affiliations=OWNER%2CCOLLABORATOR&style=social)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/viodyalfaridzi/)
+![GitHub followers](https://img.shields.io/github/followers/viody75?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/viody75?affiliations=OWNER%2CCOLLABORATOR&style=social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/viody75/)
 
 ---
 
