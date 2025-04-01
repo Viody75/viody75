@@ -14,8 +14,8 @@ I specialize in building tech that solves real problems — from mobile apps to 
 
 <!-- GITHUB STATS CARD -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viodyalfaridzi&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viodyalfaridzi&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=viody75&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viody75&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
