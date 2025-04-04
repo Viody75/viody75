@@ -43,6 +43,12 @@ I specialize in building tech that solves real problems — from mobile apps to 
      - NextJS
      - Laravel
      - JAVA Spring
+   - Optimization
+     - Shorebird
+     - Crahslytic
+     - Sentry
+     - Redis
+     - Native Application Observer and Insight Tools
 4. RPA (Robot Process Automation) Development
    - UiPath
    - Reframework & Orchestrator
@@ -50,12 +56,17 @@ I specialize in building tech that solves real problems — from mobile apps to 
 6. System Administration
    - Ubuntu
    - CentOS
+   - Windows Server
 8. Data Visualization
    - PowerBI
    - Grafana
 9. DevOps
    - Gitlab Jenkins
    - Github Action
+   - Docker
+9. Architecture
+   - Serverless (AWS, Railway)
+   - Serverbase (VPS)
 
 ## Methodologies:
 1. Agile Development
