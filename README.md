@@ -65,6 +65,7 @@ I specialize in building tech that solves real problems — from mobile apps to 
    - Gitlab Jenkins
    - Github Action
    - Docker
+   - Codemagic
 9. Architecture
    - Serverless (AWS, Railway)
    - Serverbase (VPS)
