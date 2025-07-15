@@ -18,8 +18,9 @@ I thrive on solving real-world problems through elegant, scalable solutions. Whe
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/UiPath-red?style=for-the-badge&logo=uipath&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Katalon-white?style=for-the-badge&logo=uipath&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Katalon-white?style=for-the-badge&logo=katalon&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-02569B?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-black?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
 
