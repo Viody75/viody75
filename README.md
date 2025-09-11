@@ -5,6 +5,8 @@ I'm passionate about crafting impactful technology — from mobile apps and back
 
 I thrive on solving real-world problems through elegant, scalable solutions. Whether it's streamlining business processes, optimizing infrastructure, or shipping beautiful UIs, I’m always up for the challenge.
 
+Checkout my Free2use Tools / Projects on https://remoteam.id/remote-apps
+
 ![Profile Views](https://komarev.com/ghpvc/?username=viodyalfaridzi&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/viody75?label=Followers&style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/viody75?affiliations=OWNER%2CCOLLABORATOR&style=social)
