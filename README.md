@@ -26,11 +26,4 @@ Checkout my Free2use Tools / Projects on https://remoteam.id/remote-apps
   <img src="https://img.shields.io/badge/Jenkins-black?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
 
-## Methodologies & Practices
-
-- Agile & SCRUM workflows
-- Continuous Integration & Deployment (CI/CD)
-- Code iteration, optimization & documentation
-- Developer-first culture with a focus on quality and scalability
-
 Let’s connect and build something awesome together! (˶º⤙º˶)
