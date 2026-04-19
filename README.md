@@ -1,6 +1,6 @@
 # Viody Alfaridzi
 
-Over **5 years of experience** in Software Engineering and IT Business Development,  
+Over **6 years of experience** in Software Engineering and IT Business Development,  
 I'm passionate about crafting impactful technology — from mobile apps and backend systems to automation and data visualization.
 
 I thrive on solving real-world problems through elegant, scalable solutions. Whether it's streamlining business processes, optimizing infrastructure, or shipping beautiful UIs, I’m always up for the challenge.
